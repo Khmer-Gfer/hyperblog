@@ -2,8 +2,4 @@ Esta es la prueba de mi curso Git
 
 Estoy aprendiendo a gestionar el control de versiones
 
-Git es una gran herramienta que maneja un código similar a la terminal
-
-Es importante recordar que debe conocer comandos básicos de la terminal
-
-Igualmente debe conocer los comandos de git para usarlo
+Pronto se conoceran comandos sobre git
