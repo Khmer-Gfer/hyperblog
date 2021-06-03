@@ -4,4 +4,6 @@ Estoy aprendiendo a gestionar el control de versiones
 
 Master 1
 
+Master 2
+
 Pronto se conoceran comandos sobre git
