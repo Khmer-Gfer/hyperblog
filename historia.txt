@@ -2,4 +2,6 @@ Esta es la prueba de mi curso Git
 
 Estoy aprendiendo a gestionar el control de versiones
 
+Master 1
+
 Pronto se conoceran comandos sobre git
